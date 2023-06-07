@@ -1,0 +1,6 @@
+fraRegister = 26, 26, 973, 447, , 0, 0, 0, 0, C
+frmBook = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmBorrow = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCalendar = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+fraLogin = 0, 0, 0, 0, C, 26, 26, 849, 508, C
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
